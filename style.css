@@ -1,0 +1,56 @@
+
+.main {
+  /* border: 3px groove grey; */
+  width: 280px;
+  margin: 0 auto;
+}
+
+.result {
+  width: 97%;
+  border: 1px solid gray;
+  border-radius: 20%;
+  position: relative;
+  top: -2px;
+  background-color: white;
+  color: black;
+  padding: 5px;
+  right: 3px;
+  font-size: 25px;
+
+
+}
+
+.clearBtn {
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 6px;
+  background-color: white;
+  padding: 5px;
+  font-size: 25px;
+  border-radius: 20%;
+  color: darkorange;
+  border: 1px solid gray;
+
+}
+
+.btn {
+  background-color: white;
+  border: 1px solid gray;
+  width: 62.50px;
+  margin: 2px;
+  padding: 3px;
+  font-size: 25px;
+  border-radius: 30%;
+}
+
+.halfBtn {
+  background-color: darkorange;
+  border: 1px solid gray;
+  color: white;
+  width: 134.5px;
+  margin-top: 5px;
+  padding: 4px;
+  font-size: 25px;
+  margin-left: 2px;
+  border-radius: 30%;
+}
