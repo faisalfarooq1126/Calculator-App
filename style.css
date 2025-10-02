@@ -1,38 +1,43 @@
 
 .main {
   /* border: 3px groove grey; */
-  width: 280px;
-  margin: 0 auto;
-  padding-top: 2px;
+  width: 260px;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
   border-radius: 10px;
+  height: 400px;
 
 }
 
 .result {
-  width: 95.9%;
+  width: 90%;
   border: none;
   outline: none;
-  border: 1px solid gray;
-  border-radius: 20%;
+  border-bottom: 1px solid wheat;
+  border-radius: 10%;
   position: relative;
-  top: -2px;
-  background-color: white;
-  color: black;
-  padding: 5px;
-  font-size: 25px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  top: -5px;
+  font-size: 35px;
 
 
 }
 
 .clearBtn {
-  width: 100%;
+  width: 57px;
+  height: 57px;
+  margin-left: 3px;
   margin-top: 15px;
   margin-bottom: 6px;
-  background-color: white;
-  padding: 5px;
+  background-color:lightslategrey;
   font-size: 25px;
-  border-radius: 20%;
-  color: darkorange;
+  border-radius: 50%;
+  color: white;
   border: 1px solid gray;
 
 }
@@ -40,21 +45,24 @@
 .btn {
   background-color: white;
   border: 1px solid gray;
-  width: 62.50px;
+  width: 57px;
+  color: black;
+  height: 57px;
   margin: 2px;
-  padding: 3px;
+  padding: 2px;
   font-size: 25px;
-  border-radius: 30%;
+  border-radius: 50%;
 }
 
 .halfBtn {
-  background-color: darkorange;
+  background-color: white;
   border: 1px solid gray;
-  color: white;
-  width: 134.5px;
+  color: black;
   margin-top: 5px;
   padding: 4px;
   font-size: 25px;
   margin-left: 2px;
-  border-radius: 30%;
+  border-radius: 50%;
+  width: 57px;
+  height: 57px;
 }
